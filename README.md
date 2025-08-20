@@ -1,4 +1,4 @@
-# Hi there! 👋  
+# 👋 Hi there! 
 I’m **Kihoon**, an aspiring developer eager to grow my skills and build meaningful projects. 🌱  
 
 
