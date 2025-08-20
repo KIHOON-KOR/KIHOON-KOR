@@ -1,18 +1,19 @@
-# 👋 안녕하세요!
-**김기훈**입니다.
+# Hi there! 👋  
+I’m **Kihun**, an aspiring developer eager to grow my skills and build meaningful projects. 🌱  
 
-## 🌱 배우고 있는 것
-- Linux / Python / HTML, CSS
-- Git & GitHub
+## 🚀 What I'm Learning
+- JavaScript, Python, HTML, CSS  
+- Git & GitHub  
+- Basics of React and Node.js  
 
-## 📚 목표
-- 최소 주에 3번 블로그에 TIL 작성
-- GitHub 활동 기록 꾸준히 남기기
-- 프론트엔드와 백엔드 모두 경험해보기
+## 🎯 Goals
+- Write at least 3 TIL (Today I Learned) posts on my blog every week ✍️ 
+- Keep contributing to GitHub consistently  
+- Explore both frontend and backend development  
 
-## 📫 연락처
-- 이메일: nike000112@naver.com
-- 블로그: https://velog.io/@nike6736/posts
+## 📫 Contact
+- Email: nike000112@naver.com
+- Blog: https://velog.io/@nike6736/posts
 
 
 <!--
