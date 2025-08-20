@@ -1,5 +1,5 @@
 # Hi there! 👋  
-I’m **Kihun**, an aspiring developer eager to grow my skills and build meaningful projects. 🌱  
+I’m **Kihoon**, an aspiring developer eager to grow my skills and build meaningful projects. 🌱  
 
 ## 🚀 What I'm Learning
 - JavaScript, Python, HTML, CSS  
